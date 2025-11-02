@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 
 const About = () => {
   const viewCV = () => {
-    window.open('/ResumeCruz.pdf', '_blank');
+    window.open('/myResume.pdf', '_blank');
   };
 
   const scrollToContact = () => {
